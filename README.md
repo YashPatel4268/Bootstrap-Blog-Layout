@@ -26,9 +26,8 @@ This project is a responsive blog layout built using **Bootstrap 5 CDN**. It inc
 ## 🖼️ Screenshot
 
 ![alt text](images/dario-jud-GrgKfmm-aCM-unsplash.jpg)
-![alt text](images/dario-jud-GrgKfmm-aCM-unsplash.jpg)
-![alt text](images/dario-jud-GrgKfmm-aCM-unsplash.jpg)
-
+![alt text](images/diogo-ferrer-VeGrU1SIRaM-unsplash.jpg)
+![alt text](images/tanya-barrow-TU25h2aJuaI-unsplash.jpg)
 
 ## 👨‍💻 Author
 
